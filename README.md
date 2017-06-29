@@ -8,6 +8,7 @@ if you are missing one of the packages you can install them by using pip
 `pip install package_name`
 
 # Run
-1- you need to enter `student_id` and `password` in `data.txt` file first & second line without any declaration.<br>
-2- run the script `getter.p` by executing `python getter.py`.<br>
-3- leave every thing the browser will open and type your data to the field and will redirect to the grades website and wait after login.<br>
+1- after you download this repo you need to install <a href="https://www.python.org/">Pyhton 3.4</a>
+2- you need to enter `student_id` and `password` in `data.txt` file first & second line without any declaration.<br>
+3- run the script `getter.py` by executing `python getter.py`.<br>
+4- leave every thing the browser will open and type your data to the field and will redirect to the grades website and wait after login.<br>
